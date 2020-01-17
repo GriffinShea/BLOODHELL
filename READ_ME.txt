@@ -6,4 +6,7 @@ Description:	This project was submitted as an assignment for COMP1501 - Introduc
 		simple algorithm for a rotating line that can detect collisions with circles.
 		I adapted this code into a dark fantasy themed game where you play as a knight
 		equipped with only a sword trying to escape from a hellish dungeon. Uses Python 3
-		and the pygame library.
+		and the pygame library. I was not a very experienced programmer at the time that
+		I created BLOODHELL, so there are a few inefficiencies/errors in the code and game
+		logic (for example, player will get stuck to walls). Overall however, I think I
+		did a pretty good job.
