@@ -10,3 +10,10 @@ Description:	This project was submitted as an assignment for COMP1501 - Introduc
 		I created BLOODHELL, so there are a few inefficiencies/errors in the code and game
 		logic (for example, player will get stuck to walls). Overall however, I think I
 		did a pretty good job.
+		
+Instructions:
+		1. Download the folder labeled executable, keep the assets folder with the
+		   BLOODHELL.exe file.
+		2. Run BLOODHELL.exe.
+		3. Follow instructions in game to play the game. The objective is to reach the gate
+		   in the north end of the map.
